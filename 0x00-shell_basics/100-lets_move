@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s extglob; mv [[:upper:]]* /tmp/u
+mv [A-Z]* /tmp/u
