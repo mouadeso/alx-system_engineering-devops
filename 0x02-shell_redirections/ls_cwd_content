@@ -1,0 +1,18 @@
+total 72
+drwxr-xr-x 2 root root   307 Aug  7 19:20 .
+drwxr-xr-x 6 root root   121 Aug  7 15:49 ..
+-rwxr-xr-x 1 root root    33 Aug  7 15:49 0-hello_world
+-rw------- 1 root root 12288 Aug  7 16:06 .0-hello_world0-hello_world.swp
+-rwxr-xr-x 1 root root    29 Aug  7 18:46 1-confused_smiley
+-rwxr-xr-x 1 root root    29 Aug  7 18:50 2-hellofile
+-rwxr-xr-x 1 root root    40 Aug  7 18:54 3-twofiles
+-rwxr-xr-x 1 root root    30 Aug  7 18:57 4-lastlines
+-rwxr-xr-x 1 root root    30 Aug  7 18:59 5-firstlines
+-rwxr-xr-x 1 root root    40 Aug  7 19:03 6-third_line
+-rwxr-xr-x 1 root root    74 Aug  7 19:18 7-file
+-rw-r--r-- 1 root root    36 Aug  7 19:20 8-cwd_state
+-rwxr-xr-x 1 root root    55 Aug  7 15:49 commit
+-rw-r--r-- 1 root root 12288 Aug  7 15:49 .file.swo
+-rw-r--r-- 1 root root  4096 Aug  7 15:49 .file.swp
+-rw-r--r-- 1 root root     0 Aug  7 19:20 ls_cwd_content
+-rw-r--r-- 1 root root     5 Aug  7 18:32 README.md
