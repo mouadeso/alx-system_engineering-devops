@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "export BEST='School'" > /tmp/global_var_setup.sh
